@@ -1,7 +1,7 @@
 # XboxDevFileTools
 Tools for interacting with the Xbox dev mode HTTPS-based file system API
 
-For now, this is just a zsh script to upload the contents of a directory to a given remote location on the Xbox without recursion.  I might do more with it later.
+For now, this is just a zsh script to upload the contents of a directory to a given remote location on the Xbox without recursion.  I might do more with it later.  There are other functions in the script as well to handle other aspects of manipulating files.  They work (as far as I've tested), but are unused.
 
 Usage:
 
